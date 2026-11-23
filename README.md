@@ -3,11 +3,9 @@
 
 <br>
 
-- 🔭 I’m currently working on **Ideas to bypass current anti-privacy acts**
+- 🌱 I’m currently learning **Syslevel coding (rust)**
 
-- 🌱 I’m currently learning **Networking, Modern Web-App building**
-
-- 🤝 I’m looking for help with **Thinking a little more outside the box**
+- 🤝 I’m looking for help with **Finding proper ressources and approaches**
 
 - 📫 How to reach me **logicbreaks@proton.me**
 
